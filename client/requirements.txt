@@ -1,0 +1,5 @@
+npm install react-redux redux redux-thunk redux-persist @headlessui/react moment react-confetti @heroicons/react @paypal/react-paypal-js
+
+axios
+tailwindcss
+react-dom
